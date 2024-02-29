@@ -28,9 +28,9 @@ https://raw.githubusercontent.com/MHMahdian/IR-Fragment/main/main.json
 - Windows --> [v2rayN](https://github.com/2dust/v2rayN/releases/download/6.33/v2rayN-With-Core.zip)
 
 # آموزش ویویی
-- Android --> [v2rayNG](google.com)
-- iOS --> [V2Box](google.com)
-- Windows --> [v2rayN](google.com)
+- Android --> [v2rayNG](https://google.com)
+- iOS --> [V2Box](https://google.com)
+- Windows --> [v2rayN](https://google.com)
 # حمایت
 اگر این پروزه براتون مفید بود می توانید با ستاره دادن به پروژه از من حمایت کنید علاوه بر اون می‌توانید از طریق یکی از شبکه های کریپتو زیر کمک مالی کنید
 
