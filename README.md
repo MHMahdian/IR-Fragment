@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/MHMahdian/IR-Fragment/main/main.json
 - iOS --> [V2Box](https://google.com)
 - Windows --> [v2rayN](https://google.com)
 # حمایت
-اگر این پروزه براتون مفید بود می توانید با ستاره دادن به پروژه از من حمایت کنید علاوه بر اون می‌توانید از طریق یکی از شبکه های کریپتو زیر کمک مالی کنید
+اگر این پروژه براتون مفید بود می توانید با ستاره دادن به پروژه از من حمایت کنید علاوه بر اون می‌توانید از طریق یکی از شبکه های کریپتو زیر کمک مالی کنید
 
 - شبکه TRON (TRX): `TNPycx5MFnAWy2Ha3nzSLjb7c9PAhwbT2F`
 
