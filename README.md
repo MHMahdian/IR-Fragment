@@ -26,7 +26,9 @@ https://raw.githubusercontent.com/MHMahdian/IR-Fragment/main/main.json
   
 
 # آموزش ویویی
-
+- Android: temp.com
+- iOS: Temp.com
+- Windows: ok.com
 
  
 # به امید ازادی اینترنت برای همه ❤️‍🔥
