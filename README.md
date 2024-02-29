@@ -23,9 +23,9 @@ https://raw.githubusercontent.com/MHMahdian/IR-Fragment/main/main.json
 
 
 # برنامه های مورد نیاز
-- Android --> v2rayNG
-- iOS --> V2Box
-- Windows --> v2rayN
+- Android --> [v2rayNG](https://github.com/2dust/v2rayNG/releases/download/1.8.15/v2rayNG_1.8.15.apk)
+- iOS --> [V2Box](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690)
+- Windows --> [v2rayN](https://github.com/2dust/v2rayN/releases/download/6.33/v2rayN-With-Core.zip)
 
 # آموزش ویویی
 - Android: temp.com
