@@ -13,10 +13,10 @@
 
 
 ```bash
-https://raw.githubusercontent.com/MHMahdian/IR-Fragment/Config/1.txt
+https://raw.githubusercontent.com/MHMahdian/IR-Fragment/main/Config/1.txt
 ```
 ```bash
-https://raw.githubusercontent.com/MHMahdian/IR-Fragment/Config/2.txt
+https://raw.githubusercontent.com/MHMahdian/IR-Fragment/main/Config/2.txt
 ```
 
 پس از کپی یکی ادرس بالا به صورت لینک اشتراک در نرم افزار v2raNG یا V2Box یا v2ranN اضافه کنید و تنظیم کنید تا به صورت خود کار اپدیت بشه تا لیست کانفینگ هاتون همیشه بروز باشه
