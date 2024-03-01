@@ -51,7 +51,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "www.speedtest.net",
+            "address": "zula.ir",
             "port": 443,
             "users": [
               {
@@ -71,7 +71,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "CDn01.eAgLeVPsProXyt01.online",
+          "serverName": "cDn01.EaGLEvPsPrOxYT01.onLiNE",
           "alpn": [
             "h2",
             "http/1.1"
@@ -82,7 +82,7 @@
         "wsSettings": {
           "path": "/cdn01",
           "headers": {
-            "Host": "CDn01.eAgLeVPsProXyt01.online"
+            "Host": "cDn01.EaGLEvPsPrOxYT01.onLiNE"
           }
         },
         "sockopt": {
@@ -100,7 +100,7 @@
         "domainStrategy": "AsIs",
         "fragment": {
           "packets": "tlshello",
-          "length": "150-200",
+          "length": "25-35",
           "interval": "10-20"
         }
       },
