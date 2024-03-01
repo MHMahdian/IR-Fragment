@@ -71,7 +71,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "CdN01.eAGLEVPSPROXyT01.oNLine",
+          "serverName": "CDn01.eAgLeVPsProXyt01.online",
           "alpn": [
             "h2",
             "http/1.1"
@@ -82,7 +82,7 @@
         "wsSettings": {
           "path": "/cdn01",
           "headers": {
-            "Host": "CdN01.eAGLEVPSPROXyT01.oNLine"
+            "Host": "CDn01.eAgLeVPsProXyt01.online"
           }
         },
         "sockopt": {
@@ -100,7 +100,7 @@
         "domainStrategy": "AsIs",
         "fragment": {
           "packets": "tlshello",
-          "length": "10-20",
+          "length": "150-200",
           "interval": "10-20"
         }
       },
@@ -146,4 +146,4 @@
       }
     ]
   }
-},
+}
