@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/MHMahdian/IR-Fragment/main/Config/2.txt
  به زودی...
  # ارتباط با ما
  - Telegram Channel --> [@EagleVPS](https://t.me/EagleVPS)
- - Telegram ID --> [@M_H_Mahdian](https://t.me/M_H_Maqhdian)
+ - Telegram ID --> [@M_H_Mahdian](https://t.me/M_H_Mahdian)
 
 # حمایت
 اگر این پروژه براتون مفید بود می توانید با ستاره دادن به پروژه از من حمایت کنید علاوه بر اون می‌توانید از طریق یکی از شبکه های کریپتو زیر کمک مالی کنید
