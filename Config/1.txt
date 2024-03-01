@@ -51,7 +51,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "zula.ir",
+            "address": "www.speedtest.net",
             "port": 443,
             "users": [
               {
