@@ -94,54 +94,6 @@
       }
     },
     {
-      "tag": "proxy",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "www.speedtest.net",
-            "port": 443,
-            "users": [
-              {
-                "id": "42ec5731-e1a7-4245-8fbb-ea3ec4e65013",
-                "alterId": 0,
-                "email": "t@t.tt",
-                "security": "auto",
-                "encryption": "none",
-                "flow": ""
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "tlsSettings": {
-          "allowInsecure": false,
-          "serverName": "CdN01.eAGLEVPSPROXyT01.oNLine",
-          "alpn": [
-            "h2",
-            "http/1.1"
-          ],
-          "fingerprint": "chrome",
-          "show": false
-        },
-        "wsSettings": {
-          "path": "/cdn01",
-          "headers": {
-            "Host": "CdN01.eAGLEVPSPROXyT01.oNLine"
-          }
-        },
-        "sockopt": {
-          "dialerProxy": "fragment",
-          "tcpKeepAliveIdle": 100,
-          "mark": 255,
-          "tcpNoDelay": true
-        }
-      }
-    },
-    {
       "tag": "fragment",
       "protocol": "freedom",
       "settings": {
